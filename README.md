@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Jaguar-dart/jaguar_file_saver.svg?branch=master)](https://travis-ci.org/Jaguar-dart/jaguar_file_saver)
+
 # jaguar_file_saver
 
 File saver interceptor and utilities for Dart
