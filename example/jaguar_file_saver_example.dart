@@ -6,7 +6,8 @@ import 'dart:io';
 import 'package:path/path.dart';
 
 main() async {
-  Directory baseDir = await Directory.systemTemp.createTemp('jaguar_file_saver');
+  Directory baseDir =
+      await Directory.systemTemp.createTemp('jaguar_file_saver');
 
   Context ctx = new Context(style: Style.platform);
   String tmpPath = ctx.join(baseDir.path, 'tmp.txt');
