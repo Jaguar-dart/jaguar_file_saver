@@ -7,6 +7,8 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as p;
 
+part 'interceptor.dart';
+
 class FileSaver {
   /// Base path where all the files are stored
   final String basePath;

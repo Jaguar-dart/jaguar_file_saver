@@ -2,7 +2,6 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 
 import 'dart:io';
-import 'dart:async';
 import 'package:jaguar_file_saver/jaguar_file_saver.dart';
 import 'package:test/test.dart';
 import 'package:path/path.dart';
