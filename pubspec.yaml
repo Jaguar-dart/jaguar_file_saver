@@ -1,4 +1,5 @@
 name: jaguar_file_saver
+version: 0.0.1
 description: File saver interceptor and utilities for Dart
 authors:
 - Ravi Teja Gudapati <tejainece@gmail.com>
@@ -6,7 +7,7 @@ authors:
 homepage: http://jaguar-dart.github.io
 
 environment:
-  sdk: '>=1.0.0 <2.0.0'
+  sdk: '>=1.8.0 <2.0.0'
 
 dependencies:
   #jaguar:
